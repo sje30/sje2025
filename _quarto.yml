@@ -9,7 +9,6 @@ website:
       - href: index.qmd
         text: Home
       - publications.qmd
-      - talks.qmd
       - research.qmd
       - software.qmd
       - open.qmd
