@@ -4,6 +4,7 @@ project:
   
 website:
   title: "Stephen J Eglen"
+  favicon: favicon-32x32.png
   navbar:
     left:
       - href: index.qmd
