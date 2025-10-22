@@ -1,0 +1,9 @@
+---
+title: "Research"
+---
+
+Main research interests:
+
+- Development of the nervous system
+- Neuroinformatics
+- Reproducible research

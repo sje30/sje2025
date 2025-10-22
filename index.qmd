@@ -1,0 +1,54 @@
+---
+title: "Stephen J. Eglen"
+about:
+  id: hero-heading
+  template: trestles
+  image: ./sje-summer2024.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/sje30
+---
+
+<!-- ### This content appears above the formatted about page content. -->
+
+:::{#hero-heading}
+
+
+I am a Professor of Computational Neuroscience in the [Department of
+Applied Mathematics and Theoretical Physics](http://damtp.cam.ac.uk).
+ I use computational techniques to
+investigate development of the nervous system.  I co-direct the [MPhil
+in Computational
+Biology](https://www.maths.cam.ac.uk/postgrad/mphil/compbio).
+
+[ORCID profile 0000-0001-8607-8025](https://orcid.org/0000-0001-8607-8025).
+
+### Office hour
+
+When I am lecturing, I host an office hour, and details will be posted here.
+
+<!-- I normally have an office hour during Michaelmas and Lent terms. -->
+<!-- During Lent 2024, my office hour is Monday 1-2pm via the University's -->
+<!-- Microsoft Teams software.  Either ring me or leave me a message in the -->
+<!-- hour and I will get back to you during the hour. -->
+<!-- office hour for  Lent term is Fri 12-1pm in G0.11. -->
+
+### Education
+
+University of Sussex, UK | DPhil in Computer Science and Artificial
+Intelligence | Oct 1993 - June 1997
+
+University of Nottingham, UK | Joint Honours in Computer Science,
+Artificial Intelligence and Psychology | Oct 1989 - June 1993
+
+
+
+:::
+
+<!-- ### This content appears below the formatted about page content. -->
+
+
+
+
+
