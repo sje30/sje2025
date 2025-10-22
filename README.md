@@ -5,6 +5,10 @@
 
 1. Bring auto darkmode https://github.com/gadenbuie/quarto-auto-dark
 
+Done.  This is very neat.  Allows the website to flick from night to
+day mode, following the operating system.  e.g. on Macs, there is an
+"appearance" setting that can go from light to dark.
+
 2. favicon in web and standalone content
 
 https://stackoverflow.com/questions/74165889/add-icon-to-browser-tab-in-quarto
